@@ -1,0 +1,17 @@
+and if the name contains multi words ,start with lwr caseletters followed by a upper case letters
+Ex: String name-"Aafaq"
+String firstname-"Aafaq"
+declaration of Class:
+Class test
+{
+  int it;
+  .....\code
+}
+it should be a lwr case letters
+if the name contains multiple words then we have to seprate with dots(..)
+Ex:www.w
+CONSTANTS
+it shold be in upper case letters.
+if he name constains multiple words it should be seprated by a an (_) 
+Ex:MAX_PROPRTY
+it may contain but not as the first lettr
